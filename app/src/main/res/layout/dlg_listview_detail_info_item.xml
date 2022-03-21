@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dlg_listview_base_linearlayout"
+    android:layout_width="match_parent"
+    android:layout_height="30dp">
+
+    <TextView
+        android:id="@+id/dlg_dtl_tv_maintain_item"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/dlg_maintain_item"
+        android:textColor="#00BCD4" />
+
+    <TextView
+        android:id="@+id/gap1"
+        android:layout_width="5dp"
+        android:layout_height="match_parent"
+        android:background="#E5EDCB"
+        android:text="@string/gap" />
+
+    <TextView
+        android:id="@+id/dlg_dtl_tv_maintain_period"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/dlg_maintain_period"
+        android:textColor="#DD2C00" />
+
+    <TextView
+        android:id="@+id/gap2"
+        android:layout_width="5dp"
+        android:layout_height="match_parent"
+        android:background="#E5EDCB"
+        android:text="@string/gap" />
+
+    <TextView
+        android:id="@+id/dlg_dtl_tv_maintain_type"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/dlg_maintain_type" />
+
+    <TextView
+        android:id="@+id/gap3"
+        android:layout_width="5dp"
+        android:layout_height="match_parent"
+        android:background="#E5EDCB"
+        android:text="@string/gap" />
+
+    <TextView
+        android:id="@+id/dlg_dtl_tv_maintain_class"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/dlg_maintain_class" />
+
+    <TextView
+        android:id="@+id/gap4"
+        android:layout_width="5dp"
+        android:layout_height="match_parent"
+        android:background="#E5EDCB"
+        android:text="@string/gap" />
+
+    <TextView
+        android:id="@+id/dlg_dtl_tv_maintain_status"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/dlg_maintain_status" />
+
+    <TextView
+        android:id="@+id/gap5"
+        android:layout_width="5dp"
+        android:layout_height="match_parent"
+        android:background="#E5EDCB"
+        android:text="@string/gap" />
+
+</LinearLayout>

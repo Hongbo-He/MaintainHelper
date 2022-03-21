@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="bt_import">导入数据</string>
+    <string name="bt_export">导出数据</string>
+    <string name="tv_msg">导入的信息将会在这里显示</string>
+    <string name="tv_msg2">导入报错的信息将会在这里显示</string>
+
+    <string name="gap">  </string>
+
+
+
+    <string name="dlg_mac_code">设备编码</string>
+    <string name="dlg_type_name">型号名称</string>
+    <string name="dlg_mac_name">设备名称</string>
+    <string name="dlg_maintain_time">保养日期</string>
+
+    <string name="dlg_maintain_item">保养项目</string>
+    <string name="dlg_maintain_period">保养周期</string>
+
+    <string name="dlg_maintain_type">保养类型</string>
+    <string name="dlg_maintain_class">保养等级</string>
+    <string name="dlg_maintain_status">保养状态</string>
+
+
+    <string name="frag_dash_rb_today">指定日期</string>
+    <string name="frag_dash_rb_before">指定日期以前</string>
+    <string name="frag_dash_rb_after">指定日期之后</string>
+    <string name="frag_dash_rb_whole">本月</string>
+
+    <string name="frag_dash_et_year">年</string>
+    <string name="frag_dash_et_month">月</string>
+    <string name="frag_dash_et_day">日</string>
+
+    <string name="frag_dash_bt_restAll">所有状态设为待保养</string>
+    <string name="frag_dash_bt_restToday">今日项目设为已完成</string>
+    <string name="frag_dash_bt_rest_before">今日以前设为已完成</string>
+
+    <string name="frag_dash_cb_lock1">右侧上面两个按钮启用</string>
+    <string name="frag_dash_cb_lock2">右侧最后一个按钮启用</string>
+
+    <string name="frag_dashboard_counter">用于计数</string>
+
+
+
+</resources>
